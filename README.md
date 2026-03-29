@@ -1,6 +1,5 @@
 # Smart Online Service Booking System
 Full Stack Development project simulating an admin panel for online service bookings, invoice management, and Accounts Receivable workflows using React, Node.js, and MySQL.
-# Smart Online Service Booking
 
 ## Overview
 This project simulates an admin panel for managing online service bookings, invoicing, and transaction validation. Relevant for billing and Accounts Receivable (AR) processes.
@@ -10,10 +9,11 @@ This project simulates an admin panel for managing online service bookings, invo
 - Validate booking data (placeholder scripts)
 - Dashboard for recurring billing simulation
 - Handle customer service requests
-- ## Project Screenshots
+
+## Project Screenshots
 
 ### Admin Panel Dashboard & Invoices
-![Dashboard](Admin panel dashboard and invoices.png)
+![Dashboard](Admin%20panel%20dashboard%20and%20invoices.png)
 
 ### UI Screenshot 1
 ![UI1](Picture1.jpg)
