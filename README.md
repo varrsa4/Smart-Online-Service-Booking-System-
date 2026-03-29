@@ -6,7 +6,8 @@
 
 Full Stack Development project simulating an admin panel for online service bookings, invoice management, and Accounts Receivable workflows using React, Node.js, and MySQL.
 
-GitHub Repository: [Smart Online Service Booking System](https://github.com/varrsa4/Smart-Online-Service-Booking-System-.git)
+**GitHub Profile:** [https://github.com/varrsa4](https://github.com/varrsa4)  
+**Repository:** [Smart Online Service Booking System](https://github.com/varrsa4/Smart-Online-Service-Booking-System-.git)
 
 ---
 
@@ -54,6 +55,5 @@ This is a placeholder project. Full code will be added soon.
 [Add your live demo link here](#)
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the MIT License. See the LICENSE file for details.
 
