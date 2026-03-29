@@ -10,6 +10,16 @@ This project simulates an admin panel for managing online service bookings, invo
 - Validate booking data (placeholder scripts)
 - Dashboard for recurring billing simulation
 - Handle customer service requests
+- ## Project Screenshots
+
+### Admin Panel Dashboard & Invoices
+![Dashboard](Admin panel dashboard and invoices.png)
+
+### UI Screenshot 1
+![UI1](Picture1.jpg)
+
+### UI Screenshot 2
+![UI2](Picture2.jpg)
 
 ## Technologies Used
 - Frontend: React (placeholder)
